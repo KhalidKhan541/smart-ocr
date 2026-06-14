@@ -1,0 +1,9 @@
+# SPA fallback — serve index.html for all non-file routes
+/*    /index.html   200
+
+# www to apex redirect
+https://www.smartocr.ai/*  https://smartocr.ai/:splat  301
+
+# Legacy paths
+/ocr  /  301
+/app  /  301

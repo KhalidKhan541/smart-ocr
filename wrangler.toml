@@ -1,0 +1,13 @@
+name = "smart-ocr"
+compatibility_date = "2026-06-14"
+compatibility_flags = ["nodejs_compat"]
+
+pages_build_output_dir = "./dist"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "6bf406b8fdec4b73b9b7a802cf8ed8cd"
+
+[vars]
+ENVIRONMENT = "production"
+CORS_ORIGIN = "https://smartocr.ai"
